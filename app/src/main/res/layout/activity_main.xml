@@ -22,7 +22,7 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="10dp"
         android:gravity="center_horizontal"
-        android:text="Health Status"
+        android:text="Health Care"
         android:textColor="#454545"
         android:textSize="12dp" />
 
